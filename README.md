@@ -1,2 +1,2 @@
 # oreilly
-50 beginner web dev courses
+Simple web dev projects
